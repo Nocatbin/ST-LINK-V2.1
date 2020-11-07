@@ -1,5 +1,6 @@
 /__Previews
 /History
+*.PrjPcbStructure
 *.log
 *.bak
 *.ddk
